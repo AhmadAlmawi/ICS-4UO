@@ -1,1 +1,1 @@
-This project is a FIFO linked list
+This project is a FIFO linked list.
