@@ -1,0 +1,1 @@
+A simple open hashing (closed addressing) hash table used to store the types "PartTimeEmployee" and "FullTimeEmployee" in my Emloyee Management System project which can be found [here](https://github.com/amanda-plotnik/EmployeeDatabase).
